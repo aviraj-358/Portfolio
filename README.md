@@ -1,2 +1,2 @@
 # Portfolio
- I developed Portfolio Using Html ,Css & Javascript
+ I developed Landing Page Of Website Using Html ,Css & Javascript
